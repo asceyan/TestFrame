@@ -1,0 +1,4 @@
+INFO     Request:com_request.py:69 发送request请求成功！method：get, url:http://49.235.92.12:6009/api/v1/login, headers=None, data:None
+INFO     Request:com_request.py:93 接口响应成功！,响应内容:{'code': 200, 'body': {'code': 0, 'msg': 'login success!', 'username': 'test2', 'token': 'e14e86b9e6359575f842e4b073e582012a13bc88'}, 'text': '{"code": 0, "msg": "login success!", "username": "test2", "token": "e14e86b9e6359575f842e4b073e582012a13bc88"}', 'time_consuming': 153.46, 'time_total': 0.15346}
+INFO     Request:com_request.py:69 发送request请求成功！method：get, url:http://49.235.92.12:6009/api/v1/login, headers=None, data:None
+INFO     Request:com_request.py:93 接口响应成功！,响应内容:{'code': 200, 'body': {'code': 3003, 'msg': '账号或密码不正确', 'username': 'test2', 'token': ''}, 'text': '{"code": 3003, "msg": "账号或密码不正确", "username": "test2", "token": ""}', 'time_consuming': 113.032, 'time_total': 0.113032}

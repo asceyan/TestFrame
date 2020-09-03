@@ -1,0 +1,26 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "百度搜索测试用例集",
+    "children" : [ {
+      "name" : "百度搜索成功案例",
+      "children" : [ {
+        "name" : "test_search_python",
+        "uid" : "41a03e16782cf566",
+        "parentUid" : "e22743cd68b410148c9d38835ee0c185",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599111283305,
+          "stop" : 1599111283959,
+          "duration" : 654
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e22743cd68b410148c9d38835ee0c185"
+    } ],
+    "uid" : "63f7daf216a554d7e2cb158aeaedef8c"
+  } ]
+}

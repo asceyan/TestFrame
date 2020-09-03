@@ -1,0 +1,39 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "登陆接口测试用例",
+    "children" : [ {
+      "name" : "login接口",
+      "children" : [ {
+        "name" : "正确账号密码，登陆成功",
+        "uid" : "34810ecaf23a6e65",
+        "parentUid" : "7de44056f207f1159d31aa8eff80e10b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598925721247,
+          "stop" : 1598925721387,
+          "duration" : 140
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "错误密码，登陆失败",
+        "uid" : "b78488522bc48c3b",
+        "parentUid" : "7de44056f207f1159d31aa8eff80e10b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598925721547,
+          "stop" : 1598925721662,
+          "duration" : 115
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7de44056f207f1159d31aa8eff80e10b"
+    } ],
+    "uid" : "09be318f56edae7720362ccb6e2893fe"
+  } ]
+}

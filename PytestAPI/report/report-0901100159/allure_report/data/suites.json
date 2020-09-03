@@ -1,0 +1,43 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "case",
+    "children" : [ {
+      "name" : "login_test",
+      "children" : [ {
+        "name" : "TestLogin",
+        "children" : [ {
+          "name" : "正确账号密码，登陆成功",
+          "uid" : "34810ecaf23a6e65",
+          "parentUid" : "7516e5f6eab07e28d8d693501b9841b0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598925721247,
+            "stop" : 1598925721387,
+            "duration" : 140
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "错误密码，登陆失败",
+          "uid" : "b78488522bc48c3b",
+          "parentUid" : "7516e5f6eab07e28d8d693501b9841b0",
+          "status" : "passed",
+          "time" : {
+            "start" : 1598925721547,
+            "stop" : 1598925721662,
+            "duration" : 115
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "7516e5f6eab07e28d8d693501b9841b0"
+      } ],
+      "uid" : "0620c1d3ade20cbbfa7d0dac6c7957e9"
+    } ],
+    "uid" : "7559db31629684e5f31176d189a833ac"
+  } ]
+}

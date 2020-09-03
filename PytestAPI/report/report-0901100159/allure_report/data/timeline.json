@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-PB5TCCP",
+    "children" : [ {
+      "name" : "18168-MainThread",
+      "children" : [ {
+        "name" : "正确账号密码，登陆成功",
+        "uid" : "34810ecaf23a6e65",
+        "parentUid" : "c2f8e561a4596d2d55ef6f3431593908",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598925721247,
+          "stop" : 1598925721387,
+          "duration" : 140
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "错误密码，登陆失败",
+        "uid" : "b78488522bc48c3b",
+        "parentUid" : "c2f8e561a4596d2d55ef6f3431593908",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598925721547,
+          "stop" : 1598925721662,
+          "duration" : 115
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c2f8e561a4596d2d55ef6f3431593908"
+    } ],
+    "uid" : "1dabcfa652eee7147f6c09991824cc44"
+  } ]
+}

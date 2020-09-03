@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Sep 03 13:34:43 CST 2020","Thu Sep 03 13:34:43 CST 2020","654","case","test_demo","TestBaiDuSearch","","","test_search_python","打开百度搜索python官网，搜索成功"

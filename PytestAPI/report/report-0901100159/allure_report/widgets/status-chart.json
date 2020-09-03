@@ -1,0 +1,21 @@
+[ {
+  "uid" : "b78488522bc48c3b",
+  "name" : "错误密码，登陆失败",
+  "time" : {
+    "start" : 1598925721547,
+    "stop" : 1598925721662,
+    "duration" : 115
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34810ecaf23a6e65",
+  "name" : "正确账号密码，登陆成功",
+  "time" : {
+    "start" : 1598925721247,
+    "stop" : 1598925721387,
+    "duration" : 140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

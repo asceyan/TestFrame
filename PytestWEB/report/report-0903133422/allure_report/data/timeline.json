@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-PB5TCCP",
+    "children" : [ {
+      "name" : "9380-MainThread",
+      "children" : [ {
+        "name" : "test_search_python",
+        "uid" : "41a03e16782cf566",
+        "parentUid" : "e4dc1cdeb326e68fb24f280150922e53",
+        "status" : "passed",
+        "time" : {
+          "start" : 1599111283305,
+          "stop" : 1599111283959,
+          "duration" : 654
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e4dc1cdeb326e68fb24f280150922e53"
+    } ],
+    "uid" : "1dabcfa652eee7147f6c09991824cc44"
+  } ]
+}
